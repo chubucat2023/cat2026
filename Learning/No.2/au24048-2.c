@@ -2,6 +2,7 @@
 
 int main() 
     {
-    printf("yannkita","English","k");
+    printf("yannkita\nEnglish\nk\n");
     return 0;
     }
+
